@@ -17,46 +17,46 @@
 
   <form id="multiOptionForm">
     <label>
-      <input type="checkbox" name="option" value="Key Visual / Static Image"> Key Visual / Static Image
+      <input type="checkbox" name="option" value="Key Visual / Static Image"> Key Visual / Static Image - Visual reference for marketing campaigns
     </label>
     <label>
-      <input type="checkbox" name="option" value="Digital ads"> Digital ads
+      <input type="checkbox" name="option" value="Digital ads"> Digital ads - Digital advertising on external websites including partners i.e. Teads
     </label>
     <label>
-      <input type="checkbox" name="option" value="Online Video"> Online Video
+      <input type="checkbox" name="option" value="Online Video"> Online Video - Online video advertising amongst streaming partners and digital TV watching i.e. YouTube, Netflix
     </label>
     <label>
-      <input type="checkbox" name="option" value="TV"> TV
+      <input type="checkbox" name="option" value="TV"> TV - Content developed to be released on TV
     </label>
     <label>
-      <input type="checkbox" name="option" value="Digital Out of Home (DOOH)"> Digital Out of Home (DOOH)
+      <input type="checkbox" name="option" value="Digital Out of Home (DOOH)"> Digital Out of Home (DOOH) - Images/Video that can be used as digital billboards and display boards in public areas i.e. WallDecaux, Stroer
     </label>
     <label>
-      <input type="checkbox" name="option" value="Traditional Out of Home (OOH)"> Traditional Out of Home (OOH)
+      <input type="checkbox" name="option" value="Traditional Out of Home (OOH)"> Traditional Out of Home (OOH) - Visual reference for marketing campaigns typically print
     </label>
     <label>
-      <input type="checkbox" name="option" value="E-commerce"> E-commerce
+      <input type="checkbox" name="option" value="E-commerce"> E-commerce - Display ads on e-commerce websites and owned brand pages on e-commerce sites i.e. Amazon
     </label>
     <label>
-      <input type="checkbox" name="option" value="Social Media"> Social Media
+      <input type="checkbox" name="option" value="Social Media"> Social Media - Content developed for social media platforms i.e. Facebook + Instagram (Meta), Pinterest, etc
     </label>
     <label>
-      <input type="checkbox" name="option" value="Print & Advertorial"> Print & Advertorial
+      <input type="checkbox" name="option" value="Print & Advertorial"> Print & Advertorial - Used in traditional print advertising that can be purchased by a consumer or distributed in mass
     </label>
     <label>
-      <input type="checkbox" name="option" value="POS/L3F"> POS/L3F
+      <input type="checkbox" name="option" value="POS/L3F"> POS/L3F - Advertising materials used to communicate product information to consumers at the point of sale
     </label>
     <label>
-      <input type="checkbox" name="option" value="VAP"> VAP
+      <input type="checkbox" name="option" value="VAP"> VAP - Image representing value-added packaging i.e. Bottle sold with glasses, etc
     </label>
     <label>
-      <input type="checkbox" name="option" value="Packshots"> Packshots
+      <input type="checkbox" name="option" value="Packshots"> Packshots - Bottle shots on plain backgrounds for use across advertising/purchasing sites and materials
     </label>
     <label>
-      <input type="checkbox" name="option" value="Internal support material i.e. sizzle reel"> Internal support material I.e. sizzle reel
+      <input type="checkbox" name="option" value="Internal support material"> Internal support material - Internal documents or videos to help showcase brand identity & activations i.e. Sizzle Reel
     </label>
     <label>
-      <input type="checkbox" name="option" value="Document or Toolkit"> Document or Toolkit
+      <input type="checkbox" name="option" value="Document or Toolkit"> Document or Toolkit - General guidance around brand usage
     </label>
     <!-- Add more options as needed -->
   </form>
